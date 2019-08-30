@@ -5,6 +5,7 @@
   "devMode": false,
   "components": [
     {
+      "id": "word_cloud",
       "name": "word_cloud",
       "description": "Word Cloud visualization.",
       "resource": {
